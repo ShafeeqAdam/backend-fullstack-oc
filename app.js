@@ -8,7 +8,7 @@ const userRoutes = require("./routes/user");
 
 mongoose
   .connect(
-    "mongodb+srv://shafeeqadam:kQbOq1XwDb3CwZOQ@cluster0.ssmv0pn.mongodb.net/?retryWrites=true&w=majority",
+    "credential mongo mais notre ami git guardian m'avertit de ne pas le poster sur mon hub",
     { useNewUrlParser: true, useUnifiedTopology: true }
   )
   .then(() => console.log("Connexion à MongoDB réussie !"))
