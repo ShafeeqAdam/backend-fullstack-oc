@@ -1,5 +1,6 @@
-Et nous voici dans le coeur du projet.
+Projet initiation aux technos back end, Node.js, Express.js, MongoDB.
 
+Cours dispensés par OpenClassrooms.
 Plusieurs dépendences ont étés installées comme Bcrypt, Jsonwebtoken, Path, et Multer.
 
 Ce projet m'a servit d'initiation à la création de plusieurs routes API, à la methode CRUD, et CORS.
